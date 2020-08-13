@@ -6,7 +6,7 @@
 
 > Instant downloaded?
 
-https://cdn.jsdelivr.net/gh/Purple-CSGO/HLAE-Archieve@v2.104.0/v2.104.0/hlae_2_104_0.zip
+https://cdn.jsdelivr.net/gh/Purple-CSGO/HLAE-Manual-Archieve@v2.104.0/v2.104.0/hlae_2_104_0.zip
 # API
 
 官方仓库 | Offical Repo
